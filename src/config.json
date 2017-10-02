@@ -1,0 +1,18 @@
+{
+  "oauth": {
+    "trello": {
+      "secret": "df91b2e52aa5078f8600049d5f85327f2e23b84abe361b3bed8d30da7827f72b",
+      "key": "9475c8693e79c37fcac97259fb8f086b",
+      "url": "http://1350897.dyn.ufanet.ru/oauth/trello/callback",
+      "name": "Trello OAuth Example"
+    }
+  },
+  "trello": {
+    "token": "237278faccc286a56b41caf72a10ed71ce5071b3021bc8493374e80605d95a36",
+    "key": "9475c8693e79c37fcac97259fb8f086b"
+  },
+  "telegram": {
+    "token":"453953935:AAHZm7Vky1HPdnzF-YLmbt-IM3fS411AM-Y"
+
+  }
+}

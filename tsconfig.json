@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "es6"
+    ],
+    "target": "es2017",
+    "module": "none",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "removeComments": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "stripInternal": true,
+    "pretty": true,
+    "strictNullChecks": false,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./@types"
+    ]
+
+  },
+
+  "exclude": [
+    ".idea",
+    ".git",
+    "typings",
+    "node_modules",
+
+    "dist"
+  ]
+}
