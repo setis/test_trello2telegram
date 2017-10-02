@@ -1,4 +1,4 @@
-![giphy](/home/alex/WebstormProjects/trello2telegram/docs/giphy.gif)
+![giphy](docs/giphy.gif)
 
 1. зайт подключить t.me/setis_0_bot.
 2. node --require ts-node/register src/server/index.ts или gulp build и node dist/server/index.js
